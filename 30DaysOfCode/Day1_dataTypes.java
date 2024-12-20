@@ -1,11 +1,12 @@
+
 //Day 1 : Data types
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Day1_dataTypes {
 
     public static void main(String[] args) {
-       int i = 4;
+        int i = 4;
         double d = 4.0;
         String s = "HackerRank ";
 
