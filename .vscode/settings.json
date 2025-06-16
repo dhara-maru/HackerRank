@@ -2,6 +2,8 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "*.html": "html",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "FIBO.C": "cpp",
+        "limits": "c"
     }
 }
